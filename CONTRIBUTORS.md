@@ -57,3 +57,8 @@
 #### Name: [Tamanna Rajput](https://github.com/Tamanna24)
 - Place: India
 - Github: (https://github.com/Tamanna24)
+
+
+#### Name: [Palash Sureka](https://github.com/fast-and-curious-1910)
+- Place: India
+- Github: (https://github.com/fast-and-curious-1910)
